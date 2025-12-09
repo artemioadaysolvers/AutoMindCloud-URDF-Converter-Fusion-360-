@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<ApplicationPackage SchemaVersion="1.0" ProductType="Application" AutodeskProduct="Fusion360" Name="URDFConverter" Description="AutoMindCloud URDF Converter" AppVersion="2.0.0" Author="AutoMindCloud" AppNameSpace="AutoMindCloud URDF Converter (Fusion 360) Powered with IA"  ProductCode="*" UpgradeCode="{xxx}" FriendlyVersion="2.0.0" SupportedLocales="Enu">
-  <CompanyDetails Name="AutoMindCloud Engineers" Email="artemioaday@gmail.com" />
-  <RuntimeRequirements OS="win64" Platform="Fusion360" />
-  <Components>
-    <RuntimeRequirements SupportPath="./Contents/docs" OS="win64|mac" Platform="Fusion360" />
-    <ComponentEntry AppName="entry" Version="1.0.0" ModuleName="./Contents/entry.manifest" AppDescription="AutoMindCloud URDF Converter" />
-  </Components>
-</ApplicationPackage>
